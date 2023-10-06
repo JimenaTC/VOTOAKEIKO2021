@@ -17,7 +17,8 @@ RENIEC: Población Electoral (Elecciones Generales 2021)
   •	Cantidad (Población electoral por distrito (control))
 
 
-CEPLAN: Información para el planteamiento a nivel departamental, provincial y distrital (https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-peru/)
+CEPLAN: Información para el planteamiento a nivel departamental, provincial y distrital 
+(https://www.ceplan.gob.pe/informacion-sobre-zonas-y-departamentos-del-peru/)
 
   •	Porcentaje de la población en pobreza total 16a (V.I)
 
@@ -28,7 +29,8 @@ MINSA: DataSet de Fallecidos por Covid-19
   •	Porcentaje de fallecidos por Covid (V.I)
 
 
-INEI/REDATAM: Censos nacionales 2017: XII de Población, VII de Vivienda y III de Comunidades Indígenas (https://censos2017.inei.gob.pe/redatam/)
+INEI/REDATAM: Censos nacionales 2017: XII de Población, VII de Vivienda y III de Comunidades Indígenas 
+(https://censos2017.inei.gob.pe/redatam/)
 
   •	Etnia (Tasa de Pertenencia Étnica por distrito (V.I))
 
