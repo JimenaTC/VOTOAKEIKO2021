@@ -46,4 +46,4 @@ poblacionelectoral.xlsx: Base de datos con cantidad de población electoral por 
 
 fallecidosCOVID.xlsx: Base de datos con fallecidos por COVID - 19 a nivel distrital
 
-ETNIA-INEI.xlsx: Base de datos con los porcentajes de etnias por distrito en el Censo 2017
+ETNIA.xlsx: Base de datos con los porcentajes de etnias por distrito en el Censo 2017
