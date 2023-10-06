@@ -24,6 +24,7 @@ CEPLAN: Información para el planteamiento a nivel departamental, provincial y d
 
 
 Data limpia de fallecidos por COVID - 19 a nivel distrital
+
   •	Cantidad de fallecidos por Covid (V.I)
 
 
