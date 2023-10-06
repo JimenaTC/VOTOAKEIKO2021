@@ -23,7 +23,8 @@ CEPLAN: Información para el planteamiento a nivel departamental, provincial y d
   •	Porcentaje de la población en pobreza total 16a (V.I)
 
 
-Data limpia de fallecidos por COVID - 19 a nivel distrital
+MINSA: DataSet de Fallecidos por Covid-19 
+(https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa/resource/4b7636f3-5f0c-4404-8526)
 
 
 
@@ -43,6 +44,6 @@ Resultados_2da_vuelta_Version_PCM.csv: Base de datos con los resultados de la 2d
 
 Poblacionelectoral.csv: Base de datos con cantidad de población electoral por distrito
 
-FallecidosCOVID.xslx: Base de datos con fallecidos por COVID - 19 a nivel distrital
+FallecidosCOVID-MINSA.csv: Base de datos con fallecidos por COVID - 19 a nivel distrital
 
 ETNIA-INEI.xlsx: Base de datos con los porcentajes de etnias por distrito en el Censo 2017
