@@ -33,7 +33,8 @@ INEI/REDATAM: Censos nacionales 2017: XII de Población, VII de Vivienda y III d
   •	Etnia (Tasa de Pertenencia Étnica por distrito (V.I))
 
 Contenido del repositorio:
-ceplan.xlsx: Base de datos con variables de planeamiento
+
+CEPLAN.xlsx: Base de datos con variables de planeamiento
 
 Resultados_2da_vuelta_Version_PCM.csv: Base de datos con los resultados de la 2da vuelta de las elecciones presidenciales 2021 por mesas de votación (dependiente)
 
