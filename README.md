@@ -38,12 +38,12 @@ INEI/REDATAM: Censos nacionales 2017: XII de Población, VII de Vivienda y III d
 
 Contenido del repositorio:
 
-CEPLAN.xlsx: Base de datos con variables de planeamiento
+CEPLANxx.xlsx: Base de datos con variables de planeamiento
 
-Resultados_2da_vuelta_Version_PCM.csv: Base de datos con los resultados de la 2da vuelta de las elecciones presidenciales 2021 por mesas de votación (dependiente)
+votosKeiko.xlsx: Base de datos con los resultados de la 2da vuelta de las elecciones presidenciales 2021 por mesas de votación (dependiente)
 
-Poblacionelectoral.csv: Base de datos con cantidad de población electoral por distrito
+poblacionelectoral.xlsx: Base de datos con cantidad de población electoral por distrito
 
-FallecidosCOVID-MINSA.csv: Base de datos con fallecidos por COVID - 19 a nivel distrital
+fallecidosCOVID.xlsx: Base de datos con fallecidos por COVID - 19 a nivel distrital
 
 ETNIA-INEI.xlsx: Base de datos con los porcentajes de etnias por distrito en el Censo 2017
